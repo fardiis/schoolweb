@@ -1,0 +1,9 @@
+D:\Mvc\Schoolweb\ScoolDAL\bin\Debug\netstandard2.0\ScoolDAL.deps.json
+D:\Mvc\Schoolweb\ScoolDAL\bin\Debug\netstandard2.0\ScoolDAL.dll
+D:\Mvc\Schoolweb\ScoolDAL\obj\Debug\netstandard2.0\ScoolDAL.csprojAssemblyReference.cache
+D:\Mvc\Schoolweb\ScoolDAL\obj\Debug\netstandard2.0\ScoolDAL.AssemblyInfoInputs.cache
+D:\Mvc\Schoolweb\ScoolDAL\obj\Debug\netstandard2.0\ScoolDAL.AssemblyInfo.cs
+D:\Mvc\Schoolweb\ScoolDAL\obj\Debug\netstandard2.0\ScoolDAL.csproj.CoreCompileInputs.cache
+D:\Mvc\Schoolweb\ScoolDAL\bin\Debug\netstandard2.0\ScoolDAL.pdb
+D:\Mvc\Schoolweb\ScoolDAL\obj\Debug\netstandard2.0\ScoolDAL.dll
+D:\Mvc\Schoolweb\ScoolDAL\obj\Debug\netstandard2.0\ScoolDAL.pdb
